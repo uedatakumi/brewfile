@@ -1,1 +1,5 @@
 # brewfile
+
+```
+$ brew bundle
+```
